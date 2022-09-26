@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](ttps://duanedave.github.io/Capstone-Kanban/)
 
 
 ## Getting Started
